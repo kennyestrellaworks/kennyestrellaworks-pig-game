@@ -17,7 +17,7 @@ I challenge myself to do the PIG GAME project, but this time doing it with my ow
 
 ![](project-preview.jpg)
 
-Lite Site URL: [Live Demo](kennyestrellaworks-pig-game.netlify.app)
+Lite Site URL: [Live Demo](https://kennyestrellaworks-pig-game.netlify.app/)
 
 <br />
 
