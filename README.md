@@ -15,9 +15,11 @@ I challenge myself to do the PIG GAME project, but this time doing it with my ow
 
 <br />
 
-Lite Site URL: [Live Demo](https://kennyestrella-dice-game-vanilla-javascript.netlify.app/)
-
 ![](project-preview.jpg)
+
+Lite Site URL: [Live Demo](kennyestrellaworks-pig-game.netlify.app)
+
+<br />
 
 ### Used technologies
 <img width="22px" src="javascript-original.svg">
