@@ -1,6 +1,6 @@
 # Re-writing Pig Game by Jonas Schmedtmann
 
-I took [Jonas Schmedtmann's](https://www.udemy.com/user/jonasschmedtmann/) Udemy Course, [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) and one of the lectures was to create a game know as the PIG GAME. Way back in 2019 to 2020, the course was not updated, it has 30+ hours of lectures or something. But around the half-way of 2020 (not sure the exact year), he updated the course and now it has 60+ hours of lectures and I'm doing it again.
+I took [Jonas Schmedtmann's](https://www.udemy.com/user/jonasschmedtmann/) Udemy Course, [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) and one of the lectures was to create a game know as the PIG GAME. Way back in 2019 to 2020, the course as it is when I purchased it, has 30+ hours of lectures or something. But around half-way of 2020 (not sure if it was 2020 and what month), he updated the course and now it has 60+ hours of lectures and I'm doing it again.
 
 I challenge myself to do the PIG GAME project, but this time doing it with my own code. I completed this project around 2021, but forgot to push it here.
 
